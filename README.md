@@ -1,16 +1,13 @@
-# proyecto
-PROYECTO MULTIMODULAR APLICACIÓN JAVA CON BD y EDS DAM1
+# 🏆 Sistema de Gestión de Torneos de Videojuegos
 
-🎯 Objetivo del Proyecto
-Desarrollar una aplicación de escritorio en Java que permita la gestión completa de torneos de videojuegos, incluyendo el registro de jugadores y equipos, la organización de torneos, la programación de partidas, y la visualización de resultados y estadísticas.
-La aplicación se conectará a una base de datos relacional MySQL mediante JDBC, y estará estructurada en módulos para asegurar una arquitectura limpia y mantenible.
+## 🎯 Objetivo del Proyecto
+El objetivo principal de este proyecto es desarrollar una aplicación, escrita en Java, que permita gestionar torneos de videojuegos de manera eficiente, utilizando una base de datos en MySQL conectada a través de JDBC.
 
-📌 Alcance General de la Aplicación
-La aplicación permitirá:
--Registrar y administrar videojuegos disponibles para torneos.
--Registrar jugadores y equipos, así como gestionar su relación.
--Crear torneos, asignarles un videojuego y establecer fechas.
--Inscribir equipos en torneos y programar partidas entre ellos.
--Registrar el resultado de las partidas y determinar ganadores.
--Consultar estadísticas por jugador, equipo o torneo.
--Visualizar el historial de torneos y partidas jugadas.
+## 📋 Funcionalidades
+- Registro y administración de jugadores y organizadores(altas,baja,modificar....).
+- Creación de videojuegos y torneos(crear,eliminar,modificar....).
+- Gestión de equipos y participantes(crear,eliminar,modificar....).
+- Programación y resultados de partidas(crear,mostrar)
+- Clasificación y estadísticas por torneo(mostrar).
+
+
